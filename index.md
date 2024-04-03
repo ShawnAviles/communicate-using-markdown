@@ -18,3 +18,9 @@ To clone this repository
 ```js
 let welcomeMessage = "Hello, world!";
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+- [ ] Outline my portfolio 2
+- [ ] Introduce myself to the world 2
